@@ -1,0 +1,26 @@
+{
+  "name": "ai-qa-test-app",
+  "version": "1.0.0",
+  "description": "Test application for AI-powered QA pipeline testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "test-app",
+    "qa",
+    "automation",
+    "playwright"
+  ],
+  "author": "AI QA Pipeline",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/ai-qa-test-app.git"
+  }
+}
